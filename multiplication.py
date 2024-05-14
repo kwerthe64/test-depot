@@ -69,3 +69,4 @@ if __name__ == "__main__":
     print(table[3])
     print(table[3:10])
     print(table + TableDeMultiplication(3,3))
+    print("Salut")
