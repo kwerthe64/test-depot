@@ -1,1 +1,1 @@
-Hey, pour lancer notre code faire "python mulptiplication.py"
+Pour lancer notre code faire "python mulptiplication.py"
